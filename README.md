@@ -11,7 +11,7 @@ The main goal is to count the number of people passing through a user-defined re
 - Count:
   Current number of people inside the region.
   Total number of people who entered the region.
-- Can choose many model (yolo11n, yolo11s, yolo11m).
+- Can choose many models (yolo11n, yolo11s, yolo11m).
 - Adjustable detection confidence threshold.
 - Save output video with bounding boxes and counts.
 - Save cropped images of detected people.
